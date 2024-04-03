@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\Khachhang\Khachhang\bin\Debug\Khachhang.exe.config
+C:\Users\pc\source\repos\Khachhang\Khachhang\bin\Debug\Khachhang.exe
+C:\Users\pc\source\repos\Khachhang\Khachhang\bin\Debug\Khachhang.pdb
+C:\Users\pc\source\repos\Khachhang\Khachhang\obj\Debug\Khachhang.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Khachhang\Khachhang\obj\Debug\Khachhang.Form1.resources
+C:\Users\pc\source\repos\Khachhang\Khachhang\obj\Debug\Khachhang.Properties.Resources.resources
+C:\Users\pc\source\repos\Khachhang\Khachhang\obj\Debug\Khachhang.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Khachhang\Khachhang\obj\Debug\Khachhang.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Khachhang\Khachhang\obj\Debug\Khachhang.exe
+C:\Users\pc\source\repos\Khachhang\Khachhang\obj\Debug\Khachhang.pdb
